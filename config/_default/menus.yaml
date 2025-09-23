@@ -1,0 +1,23 @@
+leftnav:
+- identifier: 0a8fb06a-5893-0131-20ef-66981d0ad950
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 87fb59d7-ba9f-5126-6829-f77507549528
+  name: Calendar and Readings
+  pageRef: /pages/calendar-and-readings/
+  weight: 20
+- identifier: 48a427a7-4c61-1df8-5959-8ed45bc12a18
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: c883a26d-5f46-e225-aec7-cf0a31dfd278
+  name: Framing Questions
+  pageRef: /pages/calendar-and-readings/framing-questions
+  parent: 87fb59d7-ba9f-5126-6829-f77507549528
+  weight: 10
+- identifier: b80b9191-9f97-a93e-350e-4f9afa1115ca
+  name: Student Work
+  pageRef: /pages/assignments/student-work
+  parent: 48a427a7-4c61-1df8-5959-8ed45bc12a18
+  weight: 10
