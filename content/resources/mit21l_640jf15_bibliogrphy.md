@@ -5,6 +5,8 @@ description: 'This resource contains information regarding the new Spain: Annota
 file: /courses/21l-640j-the-new-spain-1977-present-fall-2015/602424f33c25eec3c3ddd3c99de21273_MIT21L_640JF15_Bibliogrphy.pdf
 file_size: 419515
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
