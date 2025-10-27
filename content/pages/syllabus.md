@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides a course overview and information on meeting
   times, prerequisites, materials, requirements, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -44,7 +42,7 @@ Tremlett, Giles. _Ghosts of Spain: Travels Through Spain and Its Silent Past_. W
 
 See the {{% resource_link 87fb59d7-ba9f-5126-6829-f77507549528 "Readings" %}} section for a list of the readings used in class.
 
-The movies must be seen before the class date when they will be discussed. Finally, it is important that you read [_El País_](http://elpais.com/elpais/portada_america.html) so that we can discuss the way contemporary Spaniards view their own and international politics. Reading _El País_ will be an essential part of the subject.
+The movies must be seen before the class date when they will be discussed. Finally, it is important that you read {{% resource_link "554b7896-cd3b-4e1d-b7e7-74ef951a382b" "_El País_" %}} so that we can discuss the way contemporary Spaniards view their own and international politics. Reading _El País_ will be an essential part of the subject.
 
 Requirements
 ------------
@@ -119,4 +117,4 @@ Portfolio
 
 \*Please read the following note about plagiarism. It is extremely important that you take care to acknowledge any idea that you learn from any source. It is better to be cautious. If you are not sure if you should cite something, please ask one of us.
 
-Plagiarism - the use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted and in all oral presentations, including images or texts in other media and for materials collected online. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the [Writing and Communication Center](http://humanistic.mit.edu/wcc), review their page on avoiding plagiarism, review MIT's online [Academic Integrity Handbook](http://web.mit.edu/academicintegrity/).
+Plagiarism - the use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted and in all oral presentations, including images or texts in other media and for materials collected online. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the {{% resource_link "bb3d0239-ec2c-4ad9-885b-7963588f8527" "Writing and Communication Center" %}}, review their page on avoiding plagiarism, review MIT's online {{% resource_link "89182b68-9da4-4f93-afca-6e395ce2f514" "Academic Integrity Handbook" %}}.

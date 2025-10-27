@@ -4,8 +4,6 @@ description: ''
 file: /courses/21l-640j-the-new-spain-1977-present-fall-2015/f799509df49a20140b31a1a4a34cfc4b_MIT21L_640JF15_HW_ses7.pdf
 file_size: 246799
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
